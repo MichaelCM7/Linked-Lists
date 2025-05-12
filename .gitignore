@@ -1,3 +1,20 @@
 # created by virtualenv automatically
-.venv/Lib
+.venv
 .idea
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.env
+.venv/
+venv/
+
+# IntelliJ / PyCharm
+.idea/
+*.iml
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
